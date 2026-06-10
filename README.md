@@ -29,3 +29,4 @@ Number 1 payment platform
 23. NFT
 24. Next target X Payment integration
 25. X Million Users
+26. one stop shop
