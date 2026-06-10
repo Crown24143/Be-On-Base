@@ -32,3 +32,4 @@ Number 1 payment platform
 26. one stop shop
 27. Fiat to crypto
 28. Crypto to Fiat
+29. Card Integration
