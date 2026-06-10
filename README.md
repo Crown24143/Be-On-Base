@@ -13,3 +13,4 @@ Number 1 payment platform
 7. Easy to understand
 8. Easy to navigate
 9. Reputation is good
+10. Doxxed founders
