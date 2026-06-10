@@ -9,4 +9,5 @@ Number 1 payment platform
 3. Fast transaction
 4. simple
 5. Easy to use
-friendly UI
+6.friendly UI
+7. Easy to understand
