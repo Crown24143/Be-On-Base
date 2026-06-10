@@ -43,3 +43,4 @@ Number 1 payment platform
 37. username NFT
 38. Sending tip via crypto
 39. Burning integration
+40. Sybil detection
