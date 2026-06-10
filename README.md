@@ -27,3 +27,4 @@ Number 1 payment platform
 21. Next Robotics
 22. Gaming
 23. NFT
+24. Next target X Payment integration
