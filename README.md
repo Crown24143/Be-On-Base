@@ -40,3 +40,4 @@ Number 1 payment platform
 34. Analysis
 35. Decentralization
 36. Messaging
+37. username NFT
