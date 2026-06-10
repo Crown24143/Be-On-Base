@@ -31,3 +31,4 @@ Number 1 payment platform
 25. X Million Users
 26. one stop shop
 27. Fiat to crypto
+28. Crypto to Fiat
