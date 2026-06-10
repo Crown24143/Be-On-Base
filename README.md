@@ -39,3 +39,4 @@ Number 1 payment platform
 33. News
 34. Analysis
 35. Decentralization
+36. Messaging
