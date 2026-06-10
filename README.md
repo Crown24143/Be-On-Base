@@ -14,3 +14,4 @@ Number 1 payment platform
 8. Easy to navigate
 9. Reputation is good
 10. Doxxed founders
+11. The next market maker
