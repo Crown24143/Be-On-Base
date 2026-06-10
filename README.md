@@ -42,3 +42,4 @@ Number 1 payment platform
 36. Messaging
 37. username NFT
 38. Sending tip via crypto
+39. Burning integration
