@@ -16,3 +16,4 @@ Number 1 payment platform
 10. Doxxed founders
 11. The next market maker
 12. Home of Agents
+13. Home for stablecoins
