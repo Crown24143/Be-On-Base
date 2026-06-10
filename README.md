@@ -28,3 +28,4 @@ Number 1 payment platform
 22. Gaming
 23. NFT
 24. Next target X Payment integration
+25. X Million Users
