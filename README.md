@@ -26,3 +26,4 @@ Number 1 payment platform
 20. Ai narrative
 21. Next Robotics
 22. Gaming
+23. NFT
