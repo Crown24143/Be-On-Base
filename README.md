@@ -24,3 +24,4 @@ Number 1 payment platform
 18.CbXrp
 19. Yield Staking
 20. Ai narrative
+21. Next Robotics
