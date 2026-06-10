@@ -8,3 +8,4 @@ Number 1 payment platform
 2. Low fees
 3. Fast transaction
 4. simple
+5. Easy to use
