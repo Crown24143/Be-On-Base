@@ -12,3 +12,4 @@ Number 1 payment platform
 6.friendly UI
 7. Easy to understand
 8. Easy to navigate
+9. Reputation is good
