@@ -38,3 +38,4 @@ Number 1 payment platform
 32. A trading app with agent and ai 
 33. News
 34. Analysis
+35. Decentralization
