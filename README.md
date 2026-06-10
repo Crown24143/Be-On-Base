@@ -34,3 +34,4 @@ Number 1 payment platform
 28. Crypto to Fiat
 29. Card Integration
 30. Social Media x Wallet
+31. Perpetual trading 
