@@ -35,3 +35,4 @@ Number 1 payment platform
 29. Card Integration
 30. Social Media x Wallet
 31. Perpetual trading 
+32. A trading app with agent and ai 
