@@ -21,3 +21,4 @@ Number 1 payment platform
 15. CBTC holding
 16.CbEth
 17. CbSol
+18.CbXrp
