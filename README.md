@@ -23,3 +23,4 @@ Number 1 payment platform
 17. CbSol
 18.CbXrp
 19. Yield Staking
+20. Ai narrative
