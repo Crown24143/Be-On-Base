@@ -17,3 +17,4 @@ Number 1 payment platform
 11. The next market maker
 12. Home of Agents
 13. Home for stablecoins
+14. Home of memecoins
