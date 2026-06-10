@@ -22,3 +22,4 @@ Number 1 payment platform
 16.CbEth
 17. CbSol
 18.CbXrp
+19. Yield Staking
