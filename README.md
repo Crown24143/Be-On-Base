@@ -41,3 +41,4 @@ Number 1 payment platform
 35. Decentralization
 36. Messaging
 37. username NFT
+38. Sending tip via crypto
