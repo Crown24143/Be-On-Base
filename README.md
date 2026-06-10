@@ -20,3 +20,4 @@ Number 1 payment platform
 14. Home of memecoins
 15. CBTC holding
 16.CbEth
+17. CbSol
